@@ -4,7 +4,6 @@
 // File name: projects/1/Xor.tst
 
 load Xor.hdl,
-output-file Xor.out,
 compare-to Xor.cmp,
 output-list a b out;
 
